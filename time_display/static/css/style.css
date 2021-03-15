@@ -1,0 +1,16 @@
+.container {
+    box-sizing: border-box;
+    width: 970px;
+    padding: 15px 12px 15px 20px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+h1{
+    color: darkred;
+    padding-left: 8em;
+}
+
+h2{
+    padding-left: 14em;
+}
